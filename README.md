@@ -64,21 +64,6 @@ Soy un joven de 20 años de **Envigado, Colombia** con pasión por los sistemas,
 </p>
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BioHazard23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BioHazard23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BioHazard23&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile Views" />
 </p>
