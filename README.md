@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E3C39D&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Manuel+%F0%9F%91%8B;Desarrollador+Backend+%7C+.NET+%7C+C%23;Apasionado+por+la+Innovación" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="mailto:jumarana1007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/BioHazard23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/juanmanuelarangoarana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
